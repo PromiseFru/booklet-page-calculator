@@ -1,2 +1,1 @@
-# booklet-pages-generator
-Print a booklet
+# Booklet Page Calculator
